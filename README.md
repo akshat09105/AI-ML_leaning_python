@@ -18,19 +18,20 @@ This isn’t just about code that works — it’s about understanding **why** i
 
 python-pandas-learning/
 ├── 01_python_basics/
-│ ├── variables_and_operators.py
-│ └── loops_and_conditions.py
+│   ├── variables_and_operators.py
+│   └── loops_and_conditions.py
 ├── 02_list_dict_set/
-│ ├── list_comprehension.py
-│ └── nested_structures.py
+│   ├── list_comprehension.py
+│   └── nested_structures.py
 ├── 03_numpy_intro/
-│ └── array_creation_indexing.py
+│   └── array_creation_indexing.py
 ├── 04_pandas_foundation/
-│ ├── dataframe_creation.ipynb
-│ └── filtering_and_grouping.ipynb
+│   ├── dataframe_creation.ipynb
+│   └── filtering_and_grouping.ipynb
 ├── 05_assignment_solutions/
-│ └── assignment_questions_solved.ipynb
+│   └── assignment_questions_solved.ipynb
 └── README.md
+
 
 
 ---
