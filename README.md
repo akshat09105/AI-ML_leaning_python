@@ -15,7 +15,7 @@ This isn’t just about code that works — it’s about understanding **why** i
 ---
 
 ## 🗂 Folder Structure
-
+```bash
 python-pandas-learning/
 ├── 01_python_basics/
 │   ├── variables_and_operators.py
